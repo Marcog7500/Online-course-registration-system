@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: white;
+}
+
+h1 {
+    color: black;
+}
+
+input {
+    padding: 6px;
+    width: 250px;
+}
+
+input[type="submit"] {
+    width: auto;
+    padding: 6px 12px;
+}
+
+a {
+    color: blue;
+}
